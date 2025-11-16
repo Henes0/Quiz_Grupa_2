@@ -1,0 +1,1 @@
+﻿Console.WriteLine(" Witaj w quizie przed tobą 7 pytań!");
