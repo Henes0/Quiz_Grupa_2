@@ -12,3 +12,4 @@
 /Users/hubert/Documents/SAN/projekt pp/Quiz_Grupa_2/Quiz/Quiz/obj/Debug/net9.0/Quiz.pdb
 /Users/hubert/Documents/SAN/projekt pp/Quiz_Grupa_2/Quiz/Quiz/obj/Debug/net9.0/Quiz.genruntimeconfig.cache
 /Users/hubert/Documents/SAN/projekt pp/Quiz_Grupa_2/Quiz/Quiz/obj/Debug/net9.0/ref/Quiz.dll
+/Users/hubert/Documents/SAN/projekt pp/Quiz_Grupa_2/Quiz/Quiz/obj/Debug/net9.0/Quiz.sourcelink.json
